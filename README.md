@@ -1,4 +1,4 @@
-# **Team FourReal**
+# **Zipcar - Automobile Rental Service Platform**
 A computer system to support car rental service designed for millennial fast life!
 * Implemented Zipcar website using Django python web framework that allows users to rent a vehicle. Maintained scalable and distributed MongoDB database and built CICD pipeline using Git, Jenkins, and Ansible
 * Deployed web application components to AWS in auto scaled EC2 cluster with Elastic load balancer accompanied by NGINX as production deployment server and Gunicorn as WSGI interface.
